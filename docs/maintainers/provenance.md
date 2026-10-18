@@ -24,3 +24,9 @@ Relevant licenses and notices are available in the repository:
 - [ACP schema provenance and license](../../packages/protocol/schema/acp/UPSTREAM.md).
 
 When using or redistributing this material, follow the applicable terms and retain accompanying licenses, copyright, and attribution notices. Independently distributed examples or build artifacts also require a review of the dependencies, assets, and license texts they actually include. See [release checks](release.md).
+
+## Separately copyrighted FDE reference
+
+The [FDE practice playbook for AGH](../guide/fde-practice-playbook.md) is an original, AGH-specific synthesis. Its chapter themes were informed by 范冰 (Fan Bing, XDash), *前线部署工程师：人工智能时代的客户价值交付秘籍*, published at [xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer).
+
+The source repository states that the book is copyrighted by its author and is available for free reading and non-commercial sharing, with commercial use requiring the author's prior written permission. The book's text, PDF, author identity, and source branding are not included in this repository. The AGH playbook is not a translation of the book and is not covered by this repository's Apache-2.0 license. Consult the source repository for current terms and seek permission from the author before translating or commercially adapting the book.

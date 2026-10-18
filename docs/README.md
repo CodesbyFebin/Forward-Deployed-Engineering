@@ -8,7 +8,7 @@ English | [简体中文](README.zh-CN.md)
 
 Run tasks through CLI and Web, connect business capabilities with plugins, capture methods in Skills, and build interfaces for the people doing the work. Choose a path below to get started.
 
-[Project home](../README.md) · [Why AGH](guide/why-agh.md) · [Try the examples](guide/demo.md) · [MHS and devices](guide/mhs.md)
+[Project home](../README.md) · [Why AGH](guide/why-agh.md) · [FDE practice playbook](guide/fde-practice-playbook.md) · [Try the examples](guide/demo.md) · [MHS and devices](guide/mhs.md)
 
 <a id="选择你的起点"></a>
 
@@ -17,8 +17,9 @@ Run tasks through CLI and Web, connect business capabilities with plugins, captu
 | Your goal | Recommended path | What you will achieve |
 | --- | --- | --- |
 | **Try AGH** | [Install](guide/install.md) → [First run](guide/quickstart.md) → [Continue a session](guide/sessions.md) | Run a task and find its record in both Web and CLI |
+| **Deliver an FDE engagement** | [FDE practice playbook](guide/fde-practice-playbook.md) → [Why AGH](guide/why-agh.md) → [Quickstart](guide/quickstart.md) | Scope a customer workflow, validate it, and turn proven integrations into reusable capabilities |
 | **Give agents business capabilities** | [Backend plugins](develop/backend.md) · [MCP](guide/mcp.md) · [Skills](guide/skills.md) | Connect tools, external services, or your team's methods |
-| **Connect physical devices** | [MHS and devices](guide/mhs.md) → [Write a device](guide/mhs-device.md) → [Mars base](guide/mars-world.md) | Try devices without hardware, write a device and check it against the protocol, and let agents use it |
+| **Connect physical devices** | [MHS and devices](guide/mhs.md) → [Write a device](guide/mhs-device.md) → [Mars base](guide/mars-world.md) | Try devices without hardware, write a device and check it against the protocol, and let agents use them |
 | **Build a business workbench** | [Frontend panels](develop/frontend.md) → [Full-stack integration](develop/fullstack.md) | Add an interface and read results from a backend service |
 | **Explore and extend the runtime** | [Architecture](develop/architecture.md) → [Source map](develop/source-map.md) → [API](reference/api.md) | Understand requests, extensions, and persistent state |
 
@@ -42,7 +43,7 @@ Still choosing? Try the [three examples](guide/demo.md), then use the [extension
 
 ## Build and explore
 
-- **Scenarios and methods:** [FDE and use cases](guide/why-agh.md) · [MHS and device integration](guide/mhs.md).
+- **Scenarios and methods:** [FDE practice playbook](guide/fde-practice-playbook.md) · [FDE and use cases](guide/why-agh.md) · [MHS and device integration](guide/mhs.md).
 - **Exact interfaces:** [CLI reference](reference/cli.md) · [Configuration](reference/configuration.md) · [API and schemas](reference/api.md).
 - **Support and feedback:** [Supported scope](reference/limitations.md) · [Feedback and development](develop/contributing.md) · [Security reports](../SECURITY.md).
 - **More development topics:** [Skins](develop/skins.md) · [Build recovery](guide/build-recovery.md) · [Capability matrix](reference/capabilities.md).

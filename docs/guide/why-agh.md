@@ -4,7 +4,7 @@ English | [简体中文](why-agh.zh-CN.md)
 
 <a id="为什么选择-agh让每次交付成为下一次的起点"></a>
 
-[Project home](../../README.md) · [Documentation](../README.md) · [Try the examples](demo.md)
+[Project home](../../README.md) · [Documentation](../README.md) · [FDE practice playbook](fde-practice-playbook.md) · [Try the examples](demo.md)
 
 **Put the differences into plugins. Let the harness handle execution. Reuse validated capabilities in the next deployment.**
 
@@ -79,4 +79,5 @@ Devices connect through MHS (Model Hardware Standard), AGH's own device protocol
 
 - **Try it:** [Three examples](demo.md) → [First run](quickstart.md).
 - **Build:** [Choose an extension path](../develop/plugins.md) → [Business tool](../develop/backend.md) / [Role-specific panel](../develop/frontend.md).
+- **Plan a delivery:** [FDE practice playbook](fde-practice-playbook.md) → define one workflow, its success measure, and acceptance evidence.
 - **Share your scenario:** [Feedback and project updates](../develop/contributing.md). Your integration needs and experience help identify what AGH should improve next.
